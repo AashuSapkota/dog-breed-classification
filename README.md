@@ -1,7 +1,3 @@
-Here is a clean, well-structured **README.md** based on your proposal — formatted for GitHub, concise but complete:
-
----
-
 # Hierarchical Deep Learning Framework for Multi-Granularity Dog Breed Classification
 
 This project implements a **hierarchical dog-breed classification system** that predicts both:
